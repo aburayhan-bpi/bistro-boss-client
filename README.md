@@ -67,8 +67,6 @@ The following are key dependencies used in the project:
 - **Visualization**:  
   - Recharts: ^2.15.0  
 
-For a full list of dependencies, refer to the `package.json` file.
-
 ---
 
 ## How to Run the Project Locally
