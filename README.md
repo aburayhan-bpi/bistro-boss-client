@@ -10,9 +10,11 @@ Welcome to **Bistro Boss**, a modern restaurant application designed for seamles
 - **Live Project Link**: [Visit Bistro Boss Live](https://bistro-boss-d9459.web.app/)
 - **Technologies Used**: React, Tailwind CSS, Firebase, Stripe, Vite.
 
-## Screenshot
+---
 
-![Bistro Boss Screenshot](https://i.ibb.co/JwfnV4sv/Screenshot-1.png)  
+## 📸 Project Screenshot  
+
+![Bistro Boss Screenshot](https://i.ibb.co/JwfnV4sv/Screenshot-1.png) 
 
 ---
 
