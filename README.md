@@ -87,4 +87,3 @@ npm install
 npm run dev
 
 5. Open your browser and go to http://localhost:5173 to view the app.
-6. Live Project Link: https://voluntree-a11.netlify.app
