@@ -12,7 +12,7 @@ Welcome to **Bistro Boss**, a modern restaurant application designed for seamles
 
 ## Screenshot
 
-![Bistro Boss Screenshot](https://i.ibb.co/Y75xxT8z/Screenshot-2025-01-09-045145.png)  
+![Bistro Boss Screenshot](https://i.ibb.co/JwfnV4sv/Screenshot-1.png)  
 
 ---
 
