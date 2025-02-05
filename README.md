@@ -7,23 +7,12 @@ Welcome to **Bistro Boss**, a modern restaurant application designed for seamles
 ## Description
 
 - **Project Overview**: Bistro Boss is a dynamic restaurant app that provides an intuitive UI for customers to browse menus, book reservations, and make secure payments.
-- **Live Project Link**: [Visit Bistro Boss Live](https://your-live-project-link.com) *(Replace with the actual URL)*.
+- **Live Project Link**: [Visit Bistro Boss Live](https://bistro-boss-d9459.web.app/)
 - **Technologies Used**: React, Tailwind CSS, Firebase, Stripe, Vite.
-- **README Highlights**:
-  1. Concise project overview.
-  2. Screenshot of the application.
-  3. Main technologies used.
-  4. Core features outlined.
-  5. Dependencies listed.
-  6. Steps to run the project locally.
-  7. Live project links and resources.
-
----
 
 ## Screenshot
 
-![Bistro Boss Screenshot](https://via.placeholder.com/800x400.png?text=Project+Screenshot)  
-*(Replace the placeholder URL with your actual project screenshot.)*
+![Bistro Boss Screenshot](https://i.ibb.co/Y75xxT8z/Screenshot-2025-01-09-045145.png)  
 
 ---
 
@@ -86,7 +75,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/bistro-boss-client.git
+   git clone https://github.com/aburayhan-bpi/bistro-boss-client.git
 
 2. Navigate to the project directory:
 cd bistro-boss-client
